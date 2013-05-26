@@ -44,6 +44,13 @@ Things which never got done but ought to have
 * Add support for the FreeGEM gubbins.
 
 
+License
+-------
+
+This software was, I believe, part of the Caldera GEM dump.  Therefore, it
+is under the GPLv2 (see LICENSE file)
+
+
 Original headers, authors and version histories
 -----------------------------------------------
 
